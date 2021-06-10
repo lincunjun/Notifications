@@ -1,1 +1,2 @@
 # Telegram notifications
+ShowTellNow
