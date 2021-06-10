@@ -1,7 +1,9 @@
 # Telegram notifications
-ShowTellNow
-Tell me now
-Show me now
 
+Telegram weblink
 https://t.me/s/ShowTellNow
-test
+
+1) Create a new file
+2) Add the subject
+3) Add the content
+4) click commit to see magic
