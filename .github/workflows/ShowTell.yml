@@ -6,7 +6,7 @@ name: do-stuff
 # events but only for the master branch
 on:
   issues:
-    types: [opened, edited]
+    types: [edited]
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -35,4 +35,4 @@ jobs:
         df -h
         which wget
         which curl
-        curl -X POST -H "Content-Type: application/json" -d '{"value1":"Attention everyone!","value2":"","value3":""}' https://maker.ifttt.com/trigger/triggerdevops/with/key/${{ secrets.SHOWMAN }}
+        curl -X POST -H "Content-Type: application/json" -d '{"value1":"Attention everyone!","value2":"","value3":""}' https://maker.ifttt.com/trigger/triggerdevops/with/key/${{ secrets.SHOW }}
