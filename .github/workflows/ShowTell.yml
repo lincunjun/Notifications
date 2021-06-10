@@ -4,7 +4,7 @@ name: do-stuff
 
 # Controls when the action will run. Triggers the workflow on push or pull request
 # events but only for the master branch
-on: [push]
+on: push
 
   
 
@@ -22,7 +22,7 @@ jobs:
 
     # Runs a single command using the runners shell
     - name: Run a one-line script
-      run: echo Hello, world!
+      run: echo Thank you for your submission!
 
     # Runs a set of commands using the runners shell
     - name: Run a multi-line script
@@ -35,4 +35,4 @@ jobs:
         df -h
         which wget
         which curl
-        curl -X POST -H "Content-Type: application/json" -d '{"value1":"Attention everyone!","value2":"","value3":""}' https://maker.ifttt.com/trigger/ShowTellNow/with/key/${{ secrets.SHOWMAN }}
+        curl -X POST -H "Content-Type: application/json" -d '{"value1":"Thank you!","value2":"","value3":""}' https://maker.ifttt.com/trigger/ShowTellNow/with/key/${{ secrets.SHOWMAN }}
