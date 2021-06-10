@@ -9,3 +9,5 @@ https://t.me/s/ShowTellNow
 4) click commit to see magic
 
 *More features and functionality can be added into the source file
+
+Thank you for your time!
