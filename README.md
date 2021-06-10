@@ -7,6 +7,7 @@ https://t.me/s/ShowTellNow
 2) Add the subject
 3) Add the content
 4) click commit to see magic
+5) stay tuned for my next update
 
 *More features and functionality can be added into the source file
 
