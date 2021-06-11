@@ -11,8 +11,6 @@ https://t.me/s/ShowTellNow
 5) Check out the telegram channel for new notification 
 6) stay tuned for my next update
 
-
 *More features and functionalities can be added into the workflow file
-
 
 Thank you for your time!
